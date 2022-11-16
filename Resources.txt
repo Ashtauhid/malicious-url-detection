@@ -1,0 +1,5 @@
+  Tokenizer URL inspired from:
+  https://www.kdnuggets.com/2016/10/machine-learning-detect-malicious-urls.html
+
+  Data used from:
+  https://github.com/faizann24/Using-machine-learning-to-detect-malicious-URLs/tree/master/data
